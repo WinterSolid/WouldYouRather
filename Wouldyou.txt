@@ -5,68 +5,68 @@
 #https://www.buzzfeed.com/javiermoreno/the-toughest-game-of-would-you-rather-you-will-ever-play
 
 while True:
-    qa1 = input("Would you rather:\n A) Be forced to wear wet socks for the rest of your life? B) Or be allowed to wash your hair only once a year? Q) Im Chicken and want to quit playing!")
-    if qa1 == "A":
+    q1 = input("Would you rather:\n A) Be forced to wear wet socks for the rest of your life? B) Or be allowed to wash your hair only once a year? Q) Im Chicken and want to quit playing!")
+    if q1 == "A":
         print("62%")
-    elif qa1 == "B":
+    elif q1 == "B":
         print("32%")
-    elif qa1 == "Q":
+    elif q1 == "Q":
         print("Im Done!")
         break
 
-    qa2 = input("Would you rather: \n A) Have a finger as a tongue? B) Or be allowed to wash your hair only once a year? Q) Im Chicken and want to quit playing!")
-    if qa2 == "A":
+    q2 = input("Would you rather: \n A) Have a finger as a tongue? B) Or be allowed to wash your hair only once a year? Q) Im Chicken and want to quit playing!")
+    if q2 == "A":
         print("71%")
-    elif qa2 == "B":
+    elif q2 == "B":
         print("29%")
-    elif qa2 == "Q":
+    elif q2 == "Q":
         print("Im Done!")
         break
-    qa3 = input("Would you rather: \n 
+    q3 = input("Would you rather: \n 
 	A) Always have to tell the truth?? 
 	B) Or Always have to lie?
-	Q) Im Chicken and want to quit playing!").Capitalize()
-    if qa3 == "A":
+	Q) Im Chicken and want to quit playing!").upper()
+    if q3 == "A":
         print("81%")
-    elif qa3 == "B":
+    elif q3 == "B":
         print("19%")
-    elif qa3 == "Q":
+    elif q3 == "Q":
         print("Im Done!")
         break
 
-     qa4 = input("Would you rather: \n 
+     q4 = input("Would you rather: \n 
 	A) Run your tongue down a New York City sidewalk?? 
 	B) Or press your tongue into a stranger's nostril?
-	Q) Im Chicken and want to quit playing!").Capitalize()
-    if qa4 == "A":
+	Q) Im Chicken and want to quit playing!").upper()
+    if q4 == "A":
         print("38%")
-    elif qa4 == "B":
+    elif q4 == "B":
         print("62%")
-    elif qa4 == "Q":
+    elif q4 == "Q":
         print("Im Done!")
         break
 
-    qa5 = input("Would you rather: \n 
+    q5 = input("Would you rather: \n 
 	A) Find true love? 
 	B) Or win the lottery?
-	Q) Im Chicken and want to quit playing!").Capitalize()
-    if qa5 == "A":
+	Q) Im Chicken and want to quit playing!").upper()
+    if q5 == "A":
         print("64%")
-    elif qa5 == "B":
+    elif q5 == "B":
         print("36%")
-    elif qa5 == "Q":
+    elif q5 == "Q":
         print("Im Done!")
         break
 
-     qa6 = input("Would you rather: \n 
+     q6 = input("Would you rather: \n 
 	A) Never have internet access again?
 	B) Or Pee yourself in public once a week?
-	Q) Im Chicken and want to quit playing!").Capitalize()
-    if qa6 == "A":
+	Q) Im Chicken and want to quit playing!").upper()
+    if q6 == "A":
         print("34%")
-    elif qa6 == "B":
+    elif q6 == "B":
         print("25%")
-    elif qa6 == "Q":
+    elif q6 == "Q":
         print("Im Done!")
         break
 
