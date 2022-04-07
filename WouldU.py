@@ -3,7 +3,7 @@ import io
 # https://www.buzzfeed.com/javiermoreno/the-toughest-game-of-would-you-rather-you-will-ever-play
 
 
-def main():
+def would_U():
 
     while True:
         q1 = input(
@@ -94,5 +94,5 @@ def main():
     print("\nGAME OVER!")
     exit
 
-
-main()
+#if __name__=="__main__":
+would_U()
