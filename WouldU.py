@@ -21,7 +21,7 @@ def main():
         print("")
 
         q2 = input(
-            "Would you rather: \n A) Have a finger as a tongue? B) Or tongues as finger? \nQ) Im Chicken and want to quit playing!\n>>"
+            "Would you rather: \nA) Have a finger as a tongue? B) Or tongues as finger? \nQ) Im Chicken and want to quit playing!\n>>"
         ).upper()
         if q2 == "A":
             print("71% want a finger face!")
@@ -35,7 +35,7 @@ def main():
         print("")
 
         q3 = input(
-            "Would you rather: \n A) Always have to tell the truth?? B) \n Or Always have to lie? \nQ) Im Chicken and want to quit playing!\n>>"
+            "Would you rather: \nA) Always have to tell the truth?? B) \n Or Always have to lie? \nQ) Im Chicken and want to quit playing!\n>>"
         ).upper()
         if q3 == "A":
             print("81% accepted to be truth tellers!")
@@ -49,7 +49,7 @@ def main():
         print("")
 
         q4 = input(
-            "Would you rather: \n A) Run your tongue down a New York City sidewalk?? B) Or press your tongue into a stranger's nostril? \nQ)Im Chicken and want to quit playing!\n>>"
+            "Would you rather: \nA) Run your tongue down a New York City sidewalk?? B) Or press your tongue into a stranger's nostril? \nQ)Im Chicken and want to quit playing!\n>>"
         ).upper()
         if q4 == "A":
             print("38% chose this as a option!")
@@ -63,7 +63,7 @@ def main():
         print("")
 
         q5 = input(
-            "Would you rather: \n A) Find true love? B) Or win the lottery? \nQ) Im Chicken and want to quit playing!\n>>"
+            "Would you rather: \nA) Find true love? B) Or win the lottery? \nQ) Im Chicken and want to quit playing!\n>>"
         ).upper()
         if q5 == "A":
             print("64% believe in love!")
@@ -76,7 +76,7 @@ def main():
         print("")
 
         q6 = input(
-            "Would you rather: \n A) Never have internet access again? B) Or Pee yourself in public once a week? \nQ) Im Chicken and want to quit playing!\n>>"
+            "Would you rather: \nA) Never have internet access again? B) Or Pee yourself in public once a week? \nQ) Im Chicken and want to quit playing!\n>>"
         ).upper
         if q6 == "A":
             print("34% choose off the internet!")
